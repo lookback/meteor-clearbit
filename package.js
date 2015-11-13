@@ -2,7 +2,7 @@ Package.describe({
   name: 'lookback:clearbit',
   version: '1.2.0_1',
   summary: 'Use Clearbit npm module in Meteor',
-  git: '',
+  git: 'https://github.com/lookback/meteor-clearbit',
   documentation: 'README.md'
 });
 
